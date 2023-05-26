@@ -1,16 +1,36 @@
 <!--
 author: Sebastian Zug
 
+logo:   https://cdn0.scrvt.com/4d3e519fe5939342b95c7312343779ef/fc8202bd3710a2c1/41542924833b/v/757988c13854/eLearning-Africa-2023.png
+
 version: 1.0.0
 
 link:    https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css
 -->
 
+[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://github.com/LiaPlayground/Web3_Presentation/blob/main/README.md)
+
 # How To apply Web 3.0 technologies to enable sustainable and community driven online-learning
 
+----------
 
+<div style="width: 46%; float: left;">
 
-## Browser-Quiz
+__Sebastian Zug, André Dietrich__
+
+__TU Bergakademie Freiberg (Germany)__
+
+</div>
+
+![partner_map](https://cdn0.scrvt.com/4d3e519fe5939342b95c7312343779ef/fc8202bd3710a2c1/41542924833b/v/757988c13854/eLearning-Africa-2023.png)<!-- style="width: 50%; float: right" -->
+
+## Motivation
+
+                      {{0-2}}
+**********************************************
+
+Capabilities of a Browser ...
+==============================
 
 __What do you think is a modern browser capable of?__
 
@@ -18,32 +38,37 @@ __What do you think is a modern browser capable of?__
 - [[X]] Storing LARGE amounts of data
 - [[X]] Cache websites and access them offline
 - [[X]] Access your device sensory information (GPS/orientation/light/compass/...)
-- [[X]] Connect to another browser directly to exchage audio/video/data
+- [[X]] Connect to another browser Sdirectly to exchage audio/video/data
 - [[X]] Be a peer in a peer to peer filesharing network
 - [[X]] Virtual & Augmented Reality applications
 - [[X]] Bluetooth connections
-************************************************
-
-                          {{|>}}
-The answer is always yes, and most modern browsers have Text to Speech engine implemented too.
 
 ************************************************
-
-## Who Am I
-
-<iframe id="map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d745.0172241379928!2d13.329770317829896!3d50.92568159562554!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a7600bf919ad43%3A0x4dc2cb2137dcaed9!2sTechnische%20Uni%2FBergakademie%20Freibg.%20Geologisches%20Institut!5e1!3m2!1sde!2sde!4v1681986802498!5m2!1sde!2sde" style="width: 100%; height: 60vh; border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
-## The Browser is the next Operating System
 
                       {{1-2}}
-![Moodle Plattform](img/cloud0.png)<!-- class="animate__animated animate__zoomIn" -->
+**********************************************
+
+> The Browser is the next Operating System.
+>
+> --often assigned to Marc Andreessen (Netscape Co-Founder)
+
+************************************************
+
+{{2-4}}
+... and their Application in LMSs
+================================
 
                       {{2-3}}
+![Moodle Plattform](img/cloud0.png)<!-- class="animate__animated animate__zoomIn" -->
+
+                      {{3}}
 ![LiaScript](img/cloud3.png)<!-- class="animate__animated animate__zoomIn" -->
 
+## Technologies
+
+> This presentation references related technologies and illustrates their application on learning contexts. Feel free to experiment :-)
 
 ### Progressive Web Apps
-
 
 > A __progressive web application (PWA)__, or __progressive web app__, is a type of application software delivered through the web, built using common web technologies including HTML, CSS, JavaScript...
 >
@@ -66,7 +91,7 @@ All the website data is stored on your device, the loaded course is cached and t
 > __Experiment:__ Turn on the flight mode and reload the page.
 
 
-## Decentralized Storage & Dissemination
+### Decentralized Storage & Dissemination
 
                       --{{0}}--
 Wenn __eine__ Zelle stirbt, dann mit ihr gehen alle ihre Informationen verloren.
@@ -75,7 +100,7 @@ Kopiert man die Inhalte und speichert sie an unterschiedlichen Orten, dann bleib
 <div style="width:100%;height:0;padding-bottom:80%;position:relative;"><iframe src="https://giphy.com/embed/3ogwFSxwLoc3eNSfyE" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/feistmusic-century-feist-3ogwFSxwLoc3eNSfyE">via GIPHY</a></p>
 
 
-### Inter-Planetary File System
+#### Inter-Planetary File System
 
 > __The web of tomorrow needs IPFS today__
 >
@@ -106,7 +131,7 @@ Kopiert man die Inhalte und speichert sie an unterschiedlichen Orten, dann bleib
 > !?[Brave Browser & IPFS](https://www.youtube.com/watch?v=hpwh_zLpnCE)
 
 
-### Darknet: Tor & OnionShare
+#### Darknet: Tor & OnionShare
 
                 {{0-1}}
 ![Censorship](img/censorship.png)
@@ -132,7 +157,7 @@ Kopiert man die Inhalte und speichert sie an unterschiedlichen Orten, dann bleib
 >
 > !?[OnionShare](https://www.youtube.com/watch?v=D2OLpNtbFD8)
 
-## Serverless Communication
+### Serverless Communication
 
 > __WebRTC (Web Real-Time Communication)__ is a free and open-source project providing web browsers and mobile applications with real-time communication (RTC) via application programming interfaces (APIs). It allows audio and video communication to work inside web pages by allowing direct peer-to-peer communication, eliminating the need to install plugins or download native apps
 >
@@ -150,7 +175,7 @@ Applications:
 >
 > !?[Classroom](https://www.youtube.com/watch?v=Kjk6OblugXI)
 
-### Classroom
+#### Example: Classroom
 
 What do you think is the most relevant feature for sustainable education.
 
@@ -159,4 +184,26 @@ What do you think is the most relevant feature for sustainable education.
 - [[Communication]] Browser-based Realtime Communication
 
 ## Contact
+
+* Project website: https://LiaScript.github.io
+* Code: https://github.com/liascript
+* YouTube: https://www.youtube.com/channel/UCyiTe2GkW_u05HSdvUblGYg
+
+---
+
+Edit this course [online](https://liascript.github.io/LiveEditor/?/show/file/https://raw.githubusercontent.com/LiaPlayground/Web3_Presentation/main/README.md).
+
+---
+
+!?[ela23 Tutorial](https://www.youtube.com/watch?v=8UtlwH0o8FI "Record of the eLearing Afrika Tutorial")
+
+---
+
+__Kontakt via:__
+
+* eMail: [LiaScript\@web.de](mailto:LiaScript@web.de)
+* Twitter: https://twitter.com/LiaScript
+* Chat: https://gitter.im/LiaScript/community
+
+
 
