@@ -68,9 +68,9 @@ __What do you think is a modern browser capable of?__
 
 > This presentation references related technologies and illustrates their application on learning contexts. Feel free to experiment :-)
 
-1. Progressive Web Apps
-2. Decentralized Storage & Dissemination
-3. Serverless Communication
+1. __Course Representation__ - Progressive Web Apps
+2. __Course Distribution__ - Decentralized Storage & Dissemination
+3. __Inner-Course Interaction__ - Serverless Communication
 
 ### 1. Progressive Web Apps
 
